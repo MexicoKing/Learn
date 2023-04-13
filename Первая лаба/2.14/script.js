@@ -1,5 +1,5 @@
 // Напишите "if", аналогичный "switch"
-let browser = promt("Введите свой браузер", "");
+let browser = prompt("Введите свой браузер", "");
 if (browser == "Edge") {
   alert("You've got the Edge!");
 } else if (

@@ -47,15 +47,3 @@ function sum(a, b) {
   let result = a + b;
   return result;
 }
-//Function Expression
-/*let sum = function (a, b) {
-  let result = a + b;
-  return result;
-};
-// Стрелочные функции:
-let sum = (a, b) => a + b;
-let sum = (a, b) => {
-  return a + b;
-};
-let sayHi = () => alert("Привет");
-let double = (n) => n * 2;*/
